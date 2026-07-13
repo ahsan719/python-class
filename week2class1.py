@@ -34,3 +34,15 @@ print("Total marks", total)
 print("Average Marks", average)
 print("Highest Marks", highest)
 print("passed Students", passed)     
+
+
+
+
+
+
+
+# for i in range(3):
+#     for j in range(3):
+#         print(i,j)    
+
+    
